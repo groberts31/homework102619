@@ -1,4 +1,43 @@
+.name {
+    padding: 0px;
+    float: left;
+    width: 25%;
+    margin-bottom: 0%;
+    background-color: #4aaaa5;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    position: relative;
+    left: 11.5%;
+}
 .image {
     float: left;
     padding: 10px;
+}
+a:link {
+    color: #777777;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: #777777;
+    background-color: transparent;
+    text-decoration: none;
+}
+.bodyborder {
+    background-color: white;
+    border-style: solid;
+    padding: 10px;
+}
+.aboutme {
+    background-color: transparent;
+    color: #4aaaa5;
+    font-style: bold;
+}
+.jumboarea {
+
+}
+.navbarlinks {
+    float: right;
+    background-color: white;
+    width: 25%;
+    text-align: center;
 }
