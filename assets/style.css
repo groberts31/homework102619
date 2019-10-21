@@ -1,4 +1,4 @@
-.bodyborder {
-    border: 1pt black;
-    padding: 0%;
+.image {
+    float: left;
+    padding: 10px;
 }
