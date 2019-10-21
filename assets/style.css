@@ -32,12 +32,15 @@ a:visited {
     color: #4aaaa5;
     font-style: bold;
 }
-.jumboarea {
-
+.jumbotron {
+    background-image: url("images/gravel.png");
 }
 .navbarlinks {
     float: right;
     background-color: white;
     width: 25%;
     text-align: center;
+}
+.card-footer {
+    background-color: black;
 }
