@@ -42,7 +42,6 @@ a:visited {
 }
 .navbarlinks {
     float: right;
-    background-image: url("images/gravel.png");
     width: 25%;
     text-align: center;
 }
