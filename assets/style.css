@@ -37,10 +37,11 @@ a:visited {
 }
 .jumbotron {
     background-image: url("images/gravel.png");
+    height: auto;
 }
 .navbarlinks {
     float: right;
-    background-color: white;
+    background-image: url("images/gravel.png");
     width: 25%;
     text-align: center;
 }
