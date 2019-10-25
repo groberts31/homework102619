@@ -8,3 +8,5 @@ Bootstrap was also used to style the content which includes the main profile pic
 Also made the pictures responsive
 
 In the portfolio.html columns and rows were added to keep the pics responsive to the page.
+
+I also added more info in my content for index.html
