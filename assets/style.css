@@ -11,6 +11,8 @@
 .image {
     float: left;
     padding: 10px;
+    height: 300px;
+    width: 200px;
 }
 a:link {
     color: #777777;
