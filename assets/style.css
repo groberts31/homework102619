@@ -8,6 +8,9 @@
     position: relative;
     left: 11.5%;
 }
+body {
+    background-color: white;
+}
 .image {
     float: left;
     padding: 10px;
@@ -76,9 +79,23 @@ a:visited {
     left: 15px;
     text-align: center;
     padding-top: 4px;
+}
 
-@media all and (max-width: 480px){
+/* Media Queries for pages */
+
+@media screen and (max-width: 1250px) {
+    body {
+      background-color: #333;
+    }
     .banners {
         background-color: transparent;
     }
+    .image {
+        width: 100px;
+        height: 150px;
+    }
+    .name {
+        width: 50%;
+    }
 }
+
