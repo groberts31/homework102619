@@ -48,9 +48,6 @@ a:visited {
 .card-footer {
     background-color: black;
 }
-.submit {
-
-}
 .card-footer {
     background-color: #666666;
     border-top: 8px solid #4aaaa5;
@@ -64,7 +61,24 @@ a:visited {
     background-color: #4aaaa5;
 }
 .image1 {
-    padding: 10px;
+    padding: 0px;
     height: 200px;
-    width: 150px;
+    width: 120px;
+}
+.banners {
+    position: absolute;
+    z-index: 2;
+    background-color: teal;
+    color: white;
+    width: 91.5%;
+    height: 35px;
+    bottom: 38px;
+    left: 15px;
+    text-align: center;
+    padding-top: 4px;
+
+@media all and (max-width: 480px){
+    .banners {
+        background-color: transparent;
+    }
 }
