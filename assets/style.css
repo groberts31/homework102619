@@ -72,15 +72,15 @@ a:visited {
 }
 .banners {
     position: absolute;
-    z-index: 2;
+    /* z-index: 2; */
     background-color: teal;
-    color: white;
+    /* color: white; */
     width: 91.5%;
     height: 35px;
-    bottom: 38px;
+    /* bottom: 38px; */
     left: 15px;
     text-align: center;
-    padding-top: 4px;
+    /* padding-top: 4px; */
 }
 .smallIcons {
     float: right;
